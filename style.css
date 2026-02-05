@@ -1,0 +1,66 @@
+header img{
+height:200px;
+}
+header{
+    font-size: 50px;
+    border:3px solid black;
+    border-radius: 10px;
+    padding:15px;
+    background-color: gray;
+    color:rgb(0, 0, 0);
+    
+}
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border:3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(158, 151, 151);
+    padding:10px
+}
+main nav{
+    padding:15px;
+    margin:15px;
+}
+h1{
+    text-align: center;
+    color:black;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: gray;
+}
+body{
+    background-color:rgb(170, 170, 170);
+}
+
+main p {
+    padding-left: 5px;
+     padding-right: 5px;
+     text-align: center;
+     border: 3px solid rgb(0, 0, 0);
+     border-radius: 10px;
+     font-size: 30px;
+}
+   
+
+img{
+    weight:200px; 
+    height:180px;
+}
+h2{
+    text-align: center;
+    color:black;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: gray;
+}
+footer{
+    background-color: white;
+    border: 1px solid white;
+}
+footer p{
+    text-align: center;
+    font-size: 30px;
+}
